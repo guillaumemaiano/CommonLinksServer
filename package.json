@@ -1,0 +1,22 @@
+{
+  "name": "commonlinksserver",
+  "version": "1.0.0",
+  "description": "A tiny server to save URLs I want to use regularly within my virtual mancaves",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha inspect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumemaiano/CommonLinksServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumemaiano/CommonLinksServer/issues"
+  },
+  "homepage": "https://github.com/guillaumemaiano/CommonLinksServer#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
