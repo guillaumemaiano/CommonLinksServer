@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/guillaumemaiano/CommonLinksServer#readme",
   "devDependencies": {
-    "jenkins-mocha": "^8.0.0",
-    "mocha": "^8.1.3"
+    "jenkins-mocha": "^8.0.0"
   }
 }
