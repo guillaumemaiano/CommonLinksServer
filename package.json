@@ -4,7 +4,7 @@
   "description": "A tiny server to save URLs I want to use regularly within my virtual mancaves",
   "main": "index.js",
   "scripts": {
-    "test": "jenkins-mocha --no-coverage test/*"
+    "test": "jenkins-mocha --no-coverage tests/*"
   },
   "repository": {
     "type": "git",
