@@ -4,7 +4,7 @@
   "description": "A tiny server to save URLs I want to use regularly within my virtual mancaves",
   "main": "index.js",
   "scripts": {
-    "test": "mocha inspect"
+    "test": "jenkins-mocha --no-coverage test/*"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/guillaumemaiano/CommonLinksServer#readme",
   "devDependencies": {
+    "jenkins-mocha": "^8.0.0",
     "mocha": "^8.1.3"
   }
 }
